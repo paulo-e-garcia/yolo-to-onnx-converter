@@ -4,7 +4,7 @@ Simple Python script to export YOLO models to ONNX format for deployment and inf
 
 ## Overview
 
-This script converts a pretrained YOLOv8 model to ONNX format, making it compatible with various inference frameworks and enabling deployment across different platforms. The export uses FP32 precision with model simplification for optimal compatibility.
+This script converts a pretrained YOLO model to ONNX format, making it compatible with various inference frameworks and enabling deployment across different platforms. 
 
 ## Requirements
 
