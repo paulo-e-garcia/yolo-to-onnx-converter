@@ -1,6 +1,6 @@
 # YOLO to ONNX Converter/Exporter
 
-Simple Python script to export YOLOv8 models to ONNX format for deployment and inference optimization.
+Simple Python script to export YOLO models to ONNX format for deployment and inference optimization.
 
 ## Overview
 
