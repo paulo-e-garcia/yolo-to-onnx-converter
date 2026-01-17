@@ -42,7 +42,7 @@ python yolo-to-onnx.py
 
 ## Notes
 
-Dynamic input shapes are disabled for maximum compatibility. Enable `dynamic=True` if you need variable input dimensions during inference.
+Dynamic input shapes are disabled for maximum compatibility. Enable `dynamic=True` if you need variable input dimensions during inference. :)
 
 
 
