@@ -2,7 +2,7 @@ import torch
 from ultralytics import YOLO
 
 # Load model
-model = YOLO('yolov8m.pt')
+model = YOLO('yolov9e.pt')
 
 # Export to ONNX format
 model.export(
